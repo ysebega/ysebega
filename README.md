@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Working on Python programming projects
+- 🔭 Working on projects in Python
 - 🌱 learning Machine Learning in dept
 - 👯 Collaborating on Projects (Workflows) in SharePoint
 - 📫 Contact me @ ysebega@yahoo.fr
