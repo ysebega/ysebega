@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T09:28:42.895Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="qRANKgBWcppI8gWrrGfv" version="20.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-20T09:33:15.304Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A82Jqb1YiZKMokXL_R4B" version="20.2.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="AS-IS">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,6 +237,9 @@
         </mxCell>
         <mxCell id="Ia919NPpg_YrGYFzwKLs-39" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Statistics&lt;br&gt;Inventory&lt;br&gt;Feedback&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="450" y="510" width="90" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia919NPpg_YrGYFzwKLs-42" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Run reports&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="448" y="579.5" width="90" height="29" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
