@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-20T11:40:15.511Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="g1pEoDWQ19_qbNHnIrWL" version="20.2.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-20T12:38:10.262Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2jCw8EnTWG2idVoEEUdh" version="20.2.5" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="As-Is">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
         <mxCell id="WB6-4FlHmu9OLCnSyDYf-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;LAB &amp;amp; RADIATION&lt;br&gt;DEPARTMENT&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="548" y="411" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WB6-4FlHmu9OLCnSyDYf-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+        <mxCell id="WB6-4FlHmu9OLCnSyDYf-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.018;entryY=0.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431.98" y="439.6399999999999" as="sourcePoint" />
             <mxPoint x="548" y="439" as="targetPoint" />
@@ -143,10 +143,10 @@
             <mxPoint x="430" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WB6-4FlHmu9OLCnSyDYf-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Statistics&lt;br&gt;Inventory&lt;br&gt;Feedback&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="401" width="90" height="29" as="geometry" />
+        <mxCell id="WB6-4FlHmu9OLCnSyDYf-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Test Prescrption&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="407" width="90" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="WB6-4FlHmu9OLCnSyDYf-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Run reports&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="WB6-4FlHmu9OLCnSyDYf-31" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Lab reports&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="448" y="470.5" width="90" height="29" as="geometry" />
         </mxCell>
       </root>
