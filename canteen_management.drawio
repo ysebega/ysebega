@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T07:27:45.744Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BxFCAn0iRXUoU-ouICma" version="20.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-22T11:52:51.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="lhigsvGV1Tl5g4FEtIlW" version="20.2.5" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="AS-IS">
     <mxGraphModel dx="1038" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,7 +100,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="sMTU0lbZqeMvdErpFNHp" name="Future Process">
-    <mxGraphModel dx="1038" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,7 +108,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8iwqZkLMfsJrhiPzs_oS" name="Context Diagram">
-    <mxGraphModel dx="1038" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -245,7 +245,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LlnzvTjTlVSwJOo7t7qi" name="Activity_Diagram">
-    <mxGraphModel dx="989" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="745" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -306,7 +306,7 @@
         <mxCell id="pAimZN3bRh2ueBUnTJiJ-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pAimZN3bRh2ueBUnTJiJ-28" source="pAimZN3bRh2ueBUnTJiJ-46" target="pAimZN3bRh2ueBUnTJiJ-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAimZN3bRh2ueBUnTJiJ-46" value="&lt;b&gt;Delivery boy&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pAimZN3bRh2ueBUnTJiJ-28">
+        <mxCell id="pAimZN3bRh2ueBUnTJiJ-46" value="&lt;b&gt;To delivery boy&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pAimZN3bRh2ueBUnTJiJ-28">
           <mxGeometry x="35" y="356" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAimZN3bRh2ueBUnTJiJ-42" value="&lt;b&gt;Collect Order&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="pAimZN3bRh2ueBUnTJiJ-28">
@@ -318,7 +318,7 @@
         <mxCell id="pAimZN3bRh2ueBUnTJiJ-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pAimZN3bRh2ueBUnTJiJ-28" source="pAimZN3bRh2ueBUnTJiJ-42" target="pAimZN3bRh2ueBUnTJiJ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pAimZN3bRh2ueBUnTJiJ-54" value="&lt;b&gt;Status&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pAimZN3bRh2ueBUnTJiJ-28">
+        <mxCell id="pAimZN3bRh2ueBUnTJiJ-54" value="&lt;b&gt;Order Status&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pAimZN3bRh2ueBUnTJiJ-28">
           <mxGeometry x="35" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pAimZN3bRh2ueBUnTJiJ-29" value="Payroll" style="swimlane;" vertex="1" parent="1">
@@ -394,7 +394,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tprNSh0MGloD_oyNy-wG" name="ER Diagram">
-    <mxGraphModel dx="1038" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
