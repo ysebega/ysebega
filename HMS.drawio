@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T08:46:26.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dkgIJyc-aIakhAIINsM6" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-25T08:49:34.644Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bfG1t0j9P3EArX9OBlsJ" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="As-Is">
     <mxGraphModel dx="1038" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -385,6 +385,9 @@
         </mxCell>
         <mxCell id="pqEirGuZ9FnvMli1iEnh-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mayo_Clinic_logo.svg/219px-Mayo_Clinic_logo.svg.png;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="230" y="220" width="219" height="238" as="geometry" />
+        </mxCell>
+        <mxCell id="d2hcvhoKNB79tpE04D1U-1" value="© 1998-2022 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+          <mxGeometry x="130" y="500" width="460" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRzq7mS_68WSKw-21sY7-1" value="|" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.anchor;fontSize=10;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="229" y="171" width="20" height="30" as="geometry" />
