@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:31:43.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4q93Usno7TZSQcDgtVNW" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:33:25.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="S3_4p6Y64D6FGG2xAWad" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1038" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -501,7 +501,7 @@
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-1" value="Patient" style="swimlane;labelBackgroundColor=none;fontSize=14;fontColor=#660000;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="170" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-3" value="START" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#660000;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-1">
+        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-3" value="START" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;fontColor=#660000;strokeColor=#FF3333;fillColor=#CCFF99;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-1">
           <mxGeometry x="30" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-4" value="Call/Online appt" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-1">
@@ -603,9 +603,9 @@
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-61" value="Next appointment" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="619" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#660000;exitX=0.907;exitY=1.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="8Kx1-Vw3SHGA_9p5gpuu-20" target="8Kx1-Vw3SHGA_9p5gpuu-22">
+        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-67" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#660000;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="8Kx1-Vw3SHGA_9p5gpuu-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="220" as="sourcePoint" />
             <mxPoint x="450" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -627,7 +627,7 @@
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-79" value="Patient discharged" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="111" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-81" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-81" value="END" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFCCCC;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="111" y="602" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
