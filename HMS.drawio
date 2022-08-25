@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:07:39.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0nLwClpmWMfMGU4DX8Cu" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:09:38.643Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="gv1EqxkkTQFNLmf4HC2e" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="As-Is">
     <mxGraphModel dx="1038" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -384,27 +384,27 @@
           <mxGeometry x="145" y="260" width="50" height="18" as="geometry" />
         </mxCell>
         <mxCell id="pqEirGuZ9FnvMli1iEnh-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mayo_Clinic_logo.svg/219px-Mayo_Clinic_logo.svg.png;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
-          <mxGeometry x="230" y="258" width="219" height="238" as="geometry" />
+          <mxGeometry x="234" y="258" width="219" height="238" as="geometry" />
         </mxCell>
         <mxCell id="d2hcvhoKNB79tpE04D1U-1" value="© 1998-2022 Mayo Foundation for Medical Education and Research (MFMER). All rights reserved." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=10;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="130" y="500" width="460" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-2" value="Request for Appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+        <mxCell id="d2hcvhoKNB79tpE04D1U-2" value="Request for Appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="3" y="365" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d2hcvhoKNB79tpE04D1U-3" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;search for disease&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;strokeColor=#999999;mainText=;strokeColor2=#008cff;fontColor=#666666;fontSize=17;align=left;spacingLeft=3;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="590" y="120" width="162" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-4" value="Patient Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+        <mxCell id="d2hcvhoKNB79tpE04D1U-4" value="Patient Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="67" y="290" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-5" value="Medical Staff Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+        <mxCell id="d2hcvhoKNB79tpE04D1U-5" value="Medical Staff Portal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="476" y="286" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-6" value="Our labs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
-          <mxGeometry x="522" y="361" width="180" height="30" as="geometry" />
+        <mxCell id="d2hcvhoKNB79tpE04D1U-6" value="Our labs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+          <mxGeometry x="480" y="361" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-7" value="Our branches" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+        <mxCell id="d2hcvhoKNB79tpE04D1U-7" value="Our branches" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="470" y="441" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d2hcvhoKNB79tpE04D1U-9" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;fontSize=12;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
@@ -420,7 +420,7 @@
           <mxGeometry x="482" y="281" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2hcvhoKNB79tpE04D1U-13" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;fontSize=12;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
-          <mxGeometry x="560" y="356" width="40" height="40" as="geometry" />
+          <mxGeometry x="518" y="356" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d2hcvhoKNB79tpE04D1U-14" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;fontSize=12;fontColor=#FF3333;strokeColor=#FF3333;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="492" y="436" width="40" height="40" as="geometry" />
@@ -428,7 +428,7 @@
         <mxCell id="d2hcvhoKNB79tpE04D1U-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#3333ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;i&gt;When you need&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;answers, you know&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;where to go.&lt;/span&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;The &lt;font color=&quot;#ff3333&quot;&gt;No. 1&lt;/font&gt; hospital in the nation, for you.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="90" y="162" width="500" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="d2hcvhoKNB79tpE04D1U-16" value="Map to the clinic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
+        <mxCell id="d2hcvhoKNB79tpE04D1U-16" value="Map to the clinic" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;fontColor=#660000;fontStyle=0" vertex="1" parent="MfZx1IVme0tit-LY0BXr-1">
           <mxGeometry x="50" y="445" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KRzq7mS_68WSKw-21sY7-1" value="|" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.navigation.anchor;fontSize=10;fontColor=#000000;fontStyle=1;" vertex="1" parent="1">
