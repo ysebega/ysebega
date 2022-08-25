@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T14:29:39.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="2qSiPy76bnqDY_HgAO8v" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-25T14:35:55.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A2Negb8I2zZ9eLeZVZUV" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1038" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,17 +49,11 @@
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-15" value="Consultation" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="520" y="226" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T-YTogAy2C5Ovfkf2T1N-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-17" target="T-YTogAy2C5Ovfkf2T1N-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-17" target="T-YTogAy2C5Ovfkf2T1N-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-17" value="Observe&lt;br&gt;Patient" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="678" y="216" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="T-YTogAy2C5Ovfkf2T1N-19" value="Patient discharged" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="658" y="66" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-21" target="T-YTogAy2C5Ovfkf2T1N-29">
           <mxGeometry relative="1" as="geometry" />
@@ -109,20 +103,34 @@
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-41" value="Patient Fine" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="278" y="548" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T-YTogAy2C5Ovfkf2T1N-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-43" target="T-YTogAy2C5Ovfkf2T1N-45">
+        <mxCell id="T-YTogAy2C5Ovfkf2T1N-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;endArrow=classic;endFill=1;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-43" target="T-YTogAy2C5Ovfkf2T1N-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-43" value="Billing" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="258" y="456" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T-YTogAy2C5Ovfkf2T1N-45" value="Discharged" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="79" y="456" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#660000;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-31" target="T-YTogAy2C5Ovfkf2T1N-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="370" as="sourcePoint" />
             <mxPoint x="590" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YTogAy2C5Ovfkf2T1N-48" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;fontSize=14;fontColor=#660000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;verticalAlign=bottom;horizontal=0;endFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="T-YTogAy2C5Ovfkf2T1N-17" target="T-YTogAy2C5Ovfkf2T1N-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="658" y="135" as="sourcePoint" />
+            <mxPoint x="260" y="486" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="190" />
+              <mxPoint x="60" y="410" />
+              <mxPoint x="30" y="280" />
+              <mxPoint x="430" y="20" />
+              <mxPoint x="410" y="50" />
+              <mxPoint x="20" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T-YTogAy2C5Ovfkf2T1N-49" value="Patient discharged" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
