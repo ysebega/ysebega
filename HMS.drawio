@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:34:51.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="z4TxceHehByalmAAHLC1" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:39:15.695Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uH2gLiASJ2zOHaBQux0h" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1038" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -153,6 +153,11 @@
         </mxCell>
         <mxCell id="T-YTogAy2C5Ovfkf2T1N-59" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="1">
           <mxGeometry x="318" y="226" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5WRLzOLda6kbPNeKpSgZ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontColor=#660000;" edge="1" parent="1" target="T-YTogAy2C5Ovfkf2T1N-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="318" y="560" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -525,11 +530,29 @@
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-16" value="Former&lt;br&gt;Patient" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-10">
           <mxGeometry x="38" y="207" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-4" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-10">
+          <mxGeometry x="60" y="182" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-7" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-10">
+          <mxGeometry x="63" y="287" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-14" value="Dr/Nurse/Ward" style="swimlane;labelBackgroundColor=none;fontSize=14;fontColor=#660000;strokeColor=#FF3333;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="422" y="40" width="170" height="760" as="geometry" />
         </mxCell>
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-52" value="Diagnose" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeColor=#FF3333;fontColor=#660000;labelBackgroundColor=none;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-14">
           <mxGeometry x="30" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-1" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-14">
+          <mxGeometry x="73" y="719" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-3" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-14">
+          <mxGeometry x="72" y="603" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-5" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-14">
+          <mxGeometry x="3" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Du1G4zVVyTsaW_TZnTZx-6" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=14;fontColor=#660000;" vertex="1" parent="8Kx1-Vw3SHGA_9p5gpuu-14">
+          <mxGeometry x="120" y="547" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8Kx1-Vw3SHGA_9p5gpuu-15" value="Lab Technician" style="swimlane;labelBackgroundColor=none;fontSize=14;fontColor=#660000;strokeColor=#FF3333;fillColor=none;startSize=23;" vertex="1" parent="1">
           <mxGeometry x="592" y="40" width="170" height="760" as="geometry" />
