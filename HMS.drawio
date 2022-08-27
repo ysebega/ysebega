@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:17:12.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dM1Xgszqa3t6iIPt0wdM" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:17:53.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oz9eAZyLLYx8PUEaxcSO" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -639,12 +639,6 @@
             <mxPoint x="290.8" y="475.3499999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qlKOhaPInHWrFHuYS9Oi-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290.3999999999999" y="440.8499999999999" as="sourcePoint" />
-            <mxPoint x="142.99999999999983" y="440.25" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="289.99999999999994" y="608.3499999999999" as="sourcePoint" />
@@ -704,6 +698,9 @@
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-54" value="Next appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="465" y="573" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-55" value="Provide insurance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="184" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
