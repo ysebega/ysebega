@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:37:46.768Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6NqxybRnl1JBgtiZRn1f" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:39:04.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7wkFfH1FBdCcwgCqHU8X" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -368,7 +368,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sWENWEqS_RTDNvCQsxlW-1" value="PATIENTS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="160" height="146" as="geometry" />
+          <mxGeometry x="40" y="280" width="160" height="146" as="geometry" />
         </mxCell>
         <mxCell id="sWENWEqS_RTDNvCQsxlW-2" value="patient_id" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="sWENWEqS_RTDNvCQsxlW-1" vertex="1">
           <mxGeometry y="26" width="160" height="30" as="geometry" />
@@ -491,6 +491,12 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="450" y="315.32000000000005" as="sourcePoint" />
             <mxPoint x="525.6800000000001" y="453.21000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mWPXlDJ122dGGeeg4Bx2-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sWENWEqS_RTDNvCQsxlW-7" target="sWENWEqS_RTDNvCQsxlW-1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="187.31999999999994" y="189.01" as="sourcePoint" />
+            <mxPoint x="233" y="251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
