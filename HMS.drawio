@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:17:53.188Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oz9eAZyLLYx8PUEaxcSO" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:18:47.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="oFsgNxcpN5mXeefXszYm" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -522,7 +522,7 @@
         <mxCell id="Q69EfBrQWCyvQZz6lHNG-12" value="&lt;b&gt;Patient&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="597" y="75" width="100" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Q69EfBrQWCyvQZz6lHNG-13" value="&lt;b&gt;HMS Staff&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="Q69EfBrQWCyvQZz6lHNG-13" value="&lt;b&gt;Hospital Staff&lt;br&gt;(Doctors, &lt;br&gt;Nurse, ward boys...)&lt;br&gt;&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="43" y="70" width="100" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Q69EfBrQWCyvQZz6lHNG-14" value="4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
