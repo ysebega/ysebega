@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:04:59.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Xg5l7kp5zh17OTxywgFU" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:07:37.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="iI_dCsRiDvpSBky7mJ6D" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -689,6 +689,18 @@
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-43" value="Staff information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="540" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-44" value="Bill patient" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="454" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-45" value="Settle invoice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="462" y="419" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-46" value="Lab report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="457" y="338" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-47" value="Lab report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="292" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
