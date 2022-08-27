@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:07:37.870Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="iI_dCsRiDvpSBky7mJ6D" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:09:49.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cqHsWxbk5WmTsMXmZ_XU" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -539,8 +539,8 @@
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="142.5999999999999" y="340.4" as="sourcePoint" />
-            <mxPoint x="290" y="341" as="targetPoint" />
+            <mxPoint x="142.5999999999999" y="372.4" as="sourcePoint" />
+            <mxPoint x="290" y="373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -607,12 +607,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="597" y="568.5999999999999" as="sourcePoint" />
             <mxPoint x="449.5999999999999" y="568" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qlKOhaPInHWrFHuYS9Oi-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="142.60000000000002" y="370.5" as="sourcePoint" />
-            <mxPoint x="290.0000000000001" y="371.0999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.996;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
@@ -701,6 +695,12 @@
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-47" value="Lab report" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="292" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-48" value="Testing order" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="346" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-49" value="Billing information" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="450" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
