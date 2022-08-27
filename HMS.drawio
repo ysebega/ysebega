@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T16:15:49.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="aKBnuy1oS8QgahSyvbEP" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T16:17:12.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="dM1Xgszqa3t6iIPt0wdM" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -673,7 +673,7 @@
           <mxGeometry x="160" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-44" value="Bill patient" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="465" y="454" width="110" height="30" as="geometry" />
+          <mxGeometry x="465" y="455" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-45" value="Settle invoice" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="462" y="419" width="110" height="30" as="geometry" />
@@ -697,7 +697,13 @@
           <mxGeometry x="144" y="227" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qlKOhaPInHWrFHuYS9Oi-52" value="Patient diagnosis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="183" width="110" height="30" as="geometry" />
+          <mxGeometry x="165" y="183" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-53" value="Schedule follow up" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="467" y="541" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-54" value="Next appointment" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="573" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
