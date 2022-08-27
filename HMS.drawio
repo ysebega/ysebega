@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-27T15:45:39.007Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="U-3snmHcYK9-Kgp0e6FD" version="20.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-08-27T15:52:35.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="jejH5bqJdfDCUKUI-O2H" version="20.2.7" type="github" pages="7">
   <diagram id="aS38bOo7lNqjb9k_LurA" name="Proposed system workflow">
     <mxGraphModel dx="1153" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -519,11 +519,11 @@
         <mxCell id="Q69EfBrQWCyvQZz6lHNG-11" value="Hospital Staff Management" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=1" vertex="1" parent="Q69EfBrQWCyvQZz6lHNG-10">
           <mxGeometry y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Q69EfBrQWCyvQZz6lHNG-12" value="Patient" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="320" width="100" height="40" as="geometry" />
+        <mxCell id="Q69EfBrQWCyvQZz6lHNG-12" value="&lt;b&gt;Patient&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="553" y="75" width="100" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Q69EfBrQWCyvQZz6lHNG-13" value="HMS Staff" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="50" y="320" width="100" height="40" as="geometry" />
+        <mxCell id="Q69EfBrQWCyvQZz6lHNG-13" value="&lt;b&gt;HMS Staff&lt;/b&gt;" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="100" height="550" as="geometry" />
         </mxCell>
         <mxCell id="Q69EfBrQWCyvQZz6lHNG-14" value="4" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="418" width="160" height="80" as="geometry" />
@@ -531,10 +531,10 @@
         <mxCell id="Q69EfBrQWCyvQZz6lHNG-15" value="Billing" style="align=center;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;fontStyle=1" vertex="1" parent="Q69EfBrQWCyvQZz6lHNG-14">
           <mxGeometry y="30" width="160" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qlKOhaPInHWrFHuYS9Oi-3" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="qlKOhaPInHWrFHuYS9Oi-9" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="170" as="sourcePoint" />
-            <mxPoint x="640" y="220" as="targetPoint" />
+            <mxPoint x="400" y="350" as="sourcePoint" />
+            <mxPoint x="450" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
