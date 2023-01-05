@@ -1,5 +1,5 @@
 
-- 🔭 Working on some applications in Python
+- 🔭 Working on breast cancer detection with Deep Learning
 - 🌱 Working on AI & Machine Learning Projects
 - 👯 Collaborating on Projects (Workflows) in SharePoint
 - 📫 Contact me @ ysebega@yahoo.fr
