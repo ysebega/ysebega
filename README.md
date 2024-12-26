@@ -1,6 +1,6 @@
 
 - 🔭 Currently working on the following projects in PowerApps: Staff Offboarding, Stationary Management System and Leave Requests.
-- 🌱 Working mobile apps using Flutter and Dart
+- 🌱 Working on mobile apps using Flutter and Dart
 - 👯 Collaborating with peers to train users on M365 app
 - 📫 Contact me @ ysebega@yahoo.fr
 - ⚡ Fluent in both English & French.
